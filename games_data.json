@@ -1,0 +1,49 @@
+{
+  "-1002494513096": {
+    "chat_id": -1002494513096,
+    "creator_id": 8541762027,
+    "war_active": false,
+    "war_preparation": false,
+    "war_participants": [],
+    "war_start_time": null,
+    "war_preparation_end": null,
+    "last_war": null,
+    "created_at": "2026-02-06T09:07:59.737402",
+    "treasury": 0.0,
+    "tax_history": [],
+    "players": {
+      "8541762027": {
+        "user_id": 8541762027,
+        "username": "xutho",
+        "country": "russia",
+        "money": 9920433.807670012,
+        "army_level": 5,
+        "city_level": 6,
+        "last_income": "2026-02-06T09:13:27.047611",
+        "last_tax": "2026-02-06T09:08:02.359621",
+        "wins": 0,
+        "losses": 0,
+        "is_online": true,
+        "has_dm_notifications": true,
+        "tax_paid": 0.0,
+        "used_promocodes": []
+      },
+      "5321542097": {
+        "user_id": 5321542097,
+        "username": "sixkdksn",
+        "country": "ukraine",
+        "money": 1900.5099680000014,
+        "army_level": 1,
+        "city_level": 1,
+        "last_income": "2026-02-06T09:13:27.047611",
+        "last_tax": "2026-02-06T09:11:34.483865",
+        "wins": 0,
+        "losses": 0,
+        "is_online": true,
+        "has_dm_notifications": true,
+        "tax_paid": 0.0,
+        "used_promocodes": []
+      }
+    }
+  }
+}
