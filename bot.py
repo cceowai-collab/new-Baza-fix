@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-TOKEN = "7991281146:AAH5iNeJCjZKhfeiG_VWYgBwFde671G8pqM"
+TOKEN = "8574369883:AAF-F7eusMG5u00S9mYnEMwvWnbSJI3sty4"
 ADMIN_ID = 8541762027  # Ваш ID для админки
 
 # Константы игры
@@ -1881,4 +1881,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         logger.info("Бот остановлен пользователем")
     except Exception as e:
+
         logger.error(f"Фатальная ошибка: {e}")
